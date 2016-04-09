@@ -1076,6 +1076,12 @@ Deny current document to specify fonts to use:
 
 http://kb.mozillazine.org/About:config_entries
 
+Disable Graphite fonts library:
+
+    gfx.font_rendering.graphite.enabled=false
+
+https://wiki.mozilla.org/Features/Platform/Graphite_font_shaping
+
 
 - TILES
 
