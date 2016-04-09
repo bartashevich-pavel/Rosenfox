@@ -1157,6 +1157,12 @@ https://wiki.mozilla.org/Firefox3.1/Downloadable_Fonts_Security_Review
 
 http://kb.mozillazine.org/About:config_entries
 
+Отключение библиотеки шрифтов Graphite:
+
+    gfx.font_rendering.graphite.enabled=false
+
+https://wiki.mozilla.org/Features/Platform/Graphite_font_shaping
+
 
 - TILES
 
