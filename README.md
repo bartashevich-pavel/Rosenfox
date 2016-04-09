@@ -7,7 +7,9 @@ Version 0.1.2: 2016/02/07
 
 Version 0.1.3: 2016/02/16
 
-Current version - 0.2 **"Aviv"**: 2016/03/24
+Version - 0.2 "Aviv": 2016/03/24
+
+**Current version - 0.2.1 "Aviv": 2016/04/09**
 
 **0/ ПРЕАМБУЛА**
 
