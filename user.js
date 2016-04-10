@@ -196,6 +196,7 @@ user_pref("geo.enabled", false);
 user_pref("geo.wifi.uri", "");
 user_pref("gfx.downloadable_fonts.enabled", false);
 user_pref("gfx.downloadable_fonts.woff2.enabled", false);
+user_pref("gfx.font_rendering.graphite.enabled", false);
 user_pref("gfx.font_rendering.opentype_svg.enabled", false);
 user_pref("gfx.offscreencanvas.enabled", false);
 user_pref("identity.fxaccounts.auth.uri", "");
